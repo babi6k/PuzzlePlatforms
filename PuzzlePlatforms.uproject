@@ -1,0 +1,23 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.26",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "PuzzlePlatforms",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "Anima4DUnrealPlugin",
+			"Enabled": true
+		},
+		{
+			"Name": "UEAnimaLoader",
+			"Enabled": true
+		}
+	]
+}
